@@ -1,0 +1,11 @@
+@media screen and (min-width: 768px) {
+	#container {
+		width: 750px;
+	}
+	.container {
+		width: 750px;
+	}
+	.foot_content {
+    width: 33.33333333%;
+    }
+}

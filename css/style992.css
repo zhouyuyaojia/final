@@ -1,0 +1,14 @@
+	@media screen and (min-width: 992px){
+#main {
+    width: 66.66666667%;
+	}
+#aside{
+	 width: 33.33333333%;		
+	}
+.container {
+     width: 970px;
+	}
+#container {
+     width: 970px;
+	}		
+}	
